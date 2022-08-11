@@ -1,0 +1,11 @@
+<svg id="baseline-info-24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path id="Pfad_4" data-name="Pfad 4" class="cls-1" d="M0,0H16V16H0Z"/>
+  <path id="Pfad_5" data-name="Pfad 5" d="M8.667,2a6.667,6.667,0,1,0,6.667,6.667A6.669,6.669,0,0,0,8.667,2Zm.667,10H8V8H9.333Zm0-5.333H8V5.333H9.333Z" transform="translate(-0.667 -0.667)"/>
+</svg>
